@@ -34,7 +34,7 @@ An interactive AI chatbot powered by the Gemini API with a bubble-blast backgrou
 ## 🎥 Demo Video  
 
 <p align="center">  
-  <video src="assets/demo.mp4" controls width="700"></video>  
+  <video src="assets/Demo.mp4" controls width="700"></video>  
 </p>  
 
 ---
