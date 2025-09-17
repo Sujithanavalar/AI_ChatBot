@@ -28,15 +28,6 @@ An interactive AI chatbot powered by the Gemini API with a bubble-blast backgrou
 <p align="center">
   <img src="assets/DarkThemeChatBot.png" alt="Chatbot Dark Theme" width="700">
 </p>  
-
----
-
-## 🎥 Demo Video  
-
-<p align="center">  
-  <video src="assets/Demo.mp4" controls width="700"></video>  
-</p>  
-
 ---
 
 ## 🛠️ Tech Stack  
