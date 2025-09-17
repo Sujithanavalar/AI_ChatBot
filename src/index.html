@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Interactive Chat </title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
+ <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="page" id="page">
+    <div class="chat-card" role="application" aria-label="Chat with AI">
+      <div class="chat-header">
+        <div class="title">
+          <div class="logo" aria-hidden="true"></div>
+          <div>
+            <h1>ChatBot</h1>
+            <div style="font-size:12px;color:var(--muted)">Ask anything</div>
+          </div>
+        </div>
+
+        <div class="controls">
+          <button id="themeToggle" title="Toggle theme" aria-label="Toggle theme" style="background:none;border:none;cursor:pointer">
+            <svg id="themeIcon" width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M21 12.8A9 9 0 1111.2 3 7 7 0 0021 12.8z" fill="#6b7280"/></svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="chat-area">
+        <canvas id="bgCanvas" aria-hidden="true"></canvas>
+
+        <div class="message-column" id="msgCol" role="log" aria-live="polite"></div>
+      </div>
+
+      <div class="composer">
+        <div class="input">
+          <div id="filePreviewWrap" style="display:none"></div>
+          <textarea id="composerTextarea" placeholder="Type a message..." aria-label="Message input"></textarea>
+        </div>
+
+        <div class="send-group">
+          <input id="fileInput" type="file" accept="image/*,application/pdf" style="display:none" />
+          <button id="uploadBtn" class="upload-btn" title="Upload image or file" aria-label="Upload file">
+            <span class="plus">+</span>
+          </button>
+
+          <button id="sendBtn" class="send-btn" title="Send message" aria-label="Send message">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M2 21l21-9L2 3v7l15 2-15 2v7z" fill="#1976d2"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
