@@ -32,7 +32,7 @@ An interactive AI chatbot powered by the Gemini API with a bubble-blast backgrou
 ## Tech Stack  
 | HTML | CSS | JavaScript | Node.js | Gemini API |
 |------|-----|------------|---------|------------|
-| [<img src="assets/Html.png" width="60"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="assets/Nodejs.png" width="60"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="assets/Jvascript.png" width="60"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/Nodejs.png" width="60"/>](https://nodejs.org/) | [<img src="assets/Gemini.png" width="60"/>](https://developers.google.com/ai) |
+| [<img src="assets/Html.png" width="60"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="assets/Css.png" width="60"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="assets/Javascript.png" width="60"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/Nodejs.png" width="60"/>](https://nodejs.org/) | [<img src="assets/Gemini.png" width="60"/>](https://developers.google.com/ai) |
 
 
 ---
