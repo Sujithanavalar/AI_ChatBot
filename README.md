@@ -31,14 +31,25 @@ An interactive AI chatbot powered by the Gemini API with a bubble-blast backgrou
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
-</p>
+HTML
 
+JavaScript
+
+Node.js
+
+CSS
+
+Gemini API
+
+<a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" width="60"/></a>
+
+<a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" width="60"/></a>
+
+<a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" width="60"/></a>
+
+<a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" width="60"/></a>
+
+<a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gemini_API-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite" width="60"/></a>
 
 ---
 
